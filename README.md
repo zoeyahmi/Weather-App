@@ -3,4 +3,4 @@ A simple weather application built with HTML, CSS and Javascript that fetches an
 ## API Key
 You need to use your actual OpenWeatherMap API key in the Javascript code. You can get it by signing up on the [OpenWeatherMap Website](https://home.openweathermap.org/users/sign_up)
 ## Screenshot 
-![Screenshot of weather App Demo](assets/images/weather-app-screenshot.png)
+![Screenshot of weather App Demo](weather-app-screenshot.png)
